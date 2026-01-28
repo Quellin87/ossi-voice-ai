@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Phase_2-orange.svg)](https://github.com/Quellin87/ossi-voice-ai/releases)
 
-**Built by:** [Quellin Govender](https://linkedin.com/in/quellin) - Senior Chief Product Officer @ M42 Health  
+**Built by:** [Quellin Govender](https://linkedin.com/in/quellin) - Senior AI Product Lead @ M42 Health  
 **Purpose:** Demonstrate AI product development from strategy to implementation  
 **Repository:** https://github.com/Quellin87/ossi-voice-ai
 
