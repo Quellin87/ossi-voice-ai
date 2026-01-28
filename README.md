@@ -325,7 +325,7 @@ This project showcases:
 ## 💼 About the Author
 
 **Quellin Govender**  
-Senior Chief Product Officer @ M42 Health (Abu Dhabi)
+Senior AI Product Lead @ M42 Health (Abu Dhabi)
 
 - 📊 **Current Role:** Leading digital health products serving 400+ hospitals, 1M+ users
 - �� **Team:** 15 direct reports (Product Managers, Designers, Analysts)
@@ -338,9 +338,9 @@ Targeting senior product roles where "technical credibility" is table stakes. Mo
 ### **Connect With Me**
 
 - 💼 [LinkedIn](https://linkedin.com/in/quellin)
-- 📧 Email: quellin@example.com
+- 📧 Email: quellin.govender@gmail.com
 - 🐙 [GitHub Portfolio](https://github.com/Quellin87/agentic-ai-healthcare)
-- 🌐 Website: [Coming soon]
+- 🌐 Website: https://quellin-govender-senior--iyx1pnb.gamma.site
 
 **Open to:**
 - VP/Director Product roles (AI/Healthcare)
